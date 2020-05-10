@@ -1,0 +1,9 @@
+{
+  "name": "corona-risk",
+  "version": "1.0.0",
+  "description": "It is going to calculate the risk of covid-19 for everyone and how much we should take care about it.",
+  "main": "index.js",
+  "repository": "github.com/fingerpich/corona-risk",
+  "author": "fingerpich",
+  "license": "MIT"
+}
